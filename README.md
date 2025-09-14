@@ -1,3 +1,4 @@
+![CI](https://github.com/Helay35/devops-capstone-project/workflows/CI/badge.svg)
 # DevOps Capstone Template
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
